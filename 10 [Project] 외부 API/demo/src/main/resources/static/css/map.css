@@ -1,0 +1,150 @@
+#placesList .item .marker_1::after{
+            display:block;
+            content: '1';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_2::after{
+            display:block;
+            content: '2';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_3::after{
+            display:block;
+            content: '3';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_4::after{
+            display:block;
+            content: '4';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_5::after{
+            display:block;
+            content: '5';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_6::after{
+            display:block;
+            content: '6';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_7::after{
+            display:block;
+            content: '7';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_8::after{
+            display:block;
+            content: '8';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_9::after{
+            display:block;
+            content: '9';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_10::after{
+            display:block;
+            content: '10';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_11::after{
+            display:block;
+            content: '11';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_12::after{
+            display:block;
+            content: '12';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_13::after{
+            display:block;
+            content: '13';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_14::after{
+            display:block;
+            content: '14';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}
+#placesList .item .marker_15::after{
+            display:block;
+            content: '15';
+            background-color : orange;
+            border-radius:50%;
+            color:white;
+            width:15px; height : 15px;
+            text-align:center;
+            font-size:0.5rem;
+}

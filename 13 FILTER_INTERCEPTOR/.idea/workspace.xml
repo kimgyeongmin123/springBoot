@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bc104e6-eb9d-41ed-b840-485c595fe9e5" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/filter/UTF_8_Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/interceptor/MemoInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 AOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12 AOP/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2UPKNle6zfLj0sYdRs0X1Y2Jtgq" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Administrator/Downloads/새 폴더 (2)/08SPING_BOOT/13 FILTER_INTERCEPTOR/src/main/java/com/example/demo",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Downloads\새 폴더 (2)\08SPING_BOOT\13 FILTER_INTERCEPTOR\src\main\java\com\example\demo" />
+      <recent name="C:\Users\Administrator\Downloads\새 폴더 (2)\08SPING_BOOT\12 AOP\src\main\webapp\WEB-INF\views\memo" />
+      <recent name="C:\Users\Administrator\Downloads\새 폴더 (2)\08SPING_BOOT\12 AOP\src\main\java\com\example\demo\domain\service" />
+      <recent name="C:\Users\Administrator\Downloads\새 폴더 (2)\08SPING_BOOT\12 AOP\src\main\java\com\example\demo\restcontroller" />
+      <recent name="C:\Users\Administrator\Downloads\새 폴더 (2)\08SPING_BOOT\12 AOP\src\main\java\com\example\demo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Downloads\새 폴더 (2)\08SPING_BOOT\07 DATABASE_ORM_JPA\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.demo.domain.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="demo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookRepositoryTest.IsContaining" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.BookRepositoryTest" />
+      <option name="METHOD_NAME" value="IsContaining" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookRepositoryTest.SelectByWheres" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.BookRepositoryTest" />
+      <option name="METHOD_NAME" value="SelectByWheres" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.f1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.repository.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="f1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.f2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.domain.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.domain.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.domain.repository.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="f2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="11 FILEUPDOWNLOAD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="11 FILEUPDOWNLOAD" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.DemoApplication" />
+        <item itemvalue="JUnit.UserRepositoryTest.f2" />
+        <item itemvalue="JUnit.UserRepositoryTest.f1" />
+        <item itemvalue="JUnit.BookRepositoryTest.IsContaining" />
+        <item itemvalue="JUnit.BookRepositoryTest.SelectByWheres" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="8bc104e6-eb9d-41ed-b840-485c595fe9e5" name="변경" comment="" />
+      <created>1692835740014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692835740014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
